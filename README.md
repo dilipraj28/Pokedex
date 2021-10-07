@@ -7,7 +7,7 @@ Pokedex is a webpage which make using RESTful Pokémon API
 ## Check Out the Webpage
 click here 👇
 
-https://anime-quotes-dcbca.web.app/ 
+https://pokedex-bd3c4.web.app/poke.html
 
 ## 🛠 Technologies Used 
 HTML, CSS and JavaScript
