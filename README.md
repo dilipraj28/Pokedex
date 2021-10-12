@@ -2,7 +2,7 @@
 
 
 ## Description
-Pokedex is a webpage which make using RESTful Pokémon API
+Pokedex is a webpage which made using RESTful Pokémon API <a href="https://en.wikipedia.org/wiki/API" target="_blank"> click here to know about API </a>
 
 ## Check Out the Webpage
 click here 👇
